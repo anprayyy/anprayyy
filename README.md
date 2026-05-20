@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anang Prayogo</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=200&section=header&text=Software%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Software%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
