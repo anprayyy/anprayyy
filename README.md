@@ -27,12 +27,6 @@ A passionate Full Stack Developer with experience in building web and mobile app
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contact
 - Email: anang1321@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anpraycorp581/
