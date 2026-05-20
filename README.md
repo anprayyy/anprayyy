@@ -27,6 +27,22 @@ A passionate Full Stack Developer with experience in building web and mobile app
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anprayyy&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anprayyy&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anprayyy&theme=tokyonight" />
+</p>
+
+---
+
 ## 📫 Contact
 - Email: anang1321@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anpraycorp581/
