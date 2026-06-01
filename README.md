@@ -107,6 +107,7 @@ Fullstack Developer with experience in building modern, responsive, and user-fri
 
 <p align="center">
   <a href="https://anpray-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=portfolio"/>
   </a>
 </p>
 
